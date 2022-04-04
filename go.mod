@@ -1,4 +1,4 @@
-module github.com/Shaneumayanga/youtube-info
+module github.com/Shaneumayanga/yt-info
 
 go 1.17
 
